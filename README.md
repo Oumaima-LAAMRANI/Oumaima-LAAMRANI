@@ -1,4 +1,4 @@
-[![MasterHead]([https://as1.ftcdn.net/v2/jpg/03/29/36/40/1000_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg])
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/29/36/40/1000_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg)
 
 
 <h1 align="center">Hi there 👋, I'm Oumaima LAAMRANI</h1>
