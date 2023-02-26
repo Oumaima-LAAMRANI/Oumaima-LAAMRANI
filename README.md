@@ -1,5 +1,6 @@
-<p align="center">[![MasterHead](https://as2.ftcdn.net/v2/jpg/04/74/08/75/1000_F_474087519_I3A4FiXqwZlkJjam83JFSRvRTNbvTip9.jpg)</p>
+[![MasterHead]()
 
+<img align="center" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/04/74/08/75/1000_F_474087519_I3A4FiXqwZlkJjam83JFSRvRTNbvTip9.jpg"/>
 
 <h1 align="center">Hi there 👋, I'm Oumaima LAAMRANI</h1>
 <h3 align="center">A passionate software engineer student</h3>
