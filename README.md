@@ -1,11 +1,11 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/04/74/08/75/1000_F_474087519_I3A4FiXqwZlkJjam83JFSRvRTNbvTip9.jpg)
+[![MasterHead](<img align="center" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/04/74/08/75/1000_F_474087519_I3A4FiXqwZlkJjam83JFSRvRTNbvTip9.jpg"/>)
 
 
 <h1 align="center">Hi there 👋, I'm Oumaima LAAMRANI</h1>
 <h3 align="center">A passionate software engineer student</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oumaima-laamrani&label=Profile%20views&color=0e75b6&style=flat" alt="oumaima-laamrani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oumaima-laamrani&label=Profile%20views&color=0e75b6&style=flat" alt="oumaima-laamrani" /> </p>
 
 - 🔭 I’m currently **a software engineering student**
 
